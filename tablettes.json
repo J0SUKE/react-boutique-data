@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"HUAWEI MatePad Pro 12.6",
+        "price":599.99,
+        "desc":"Le HUAWEI MatePad Pro est doté d’un écran OLED FullView de 12,6 pouces et offre des performances puissantes et des fonctionnalités intelligentes."
+    },
+    {
+        "id":2,
+        "name":"HUAWEI MatePad 11",
+        "price":299.99,
+        "desc":"Écran HUAWEI FullView 120 Hz HUAWEI M-Pencil"
+    },
+    {
+        "id":3,
+        "name":"HUAWEI MatePad Pro 12.6",
+        "price":299.99,
+        "desc":"Écran OLED FullView\nChipset Kirin 9000E\nHUAWEI M-Pencil"
+    },
+    {
+        "id":4,
+        "name":"HUAWEI MatePad New",
+        "price":199.99,
+        "desc":"Écran FullView 2K\nSon surround immersif\nHUAWEI Share"
+    },
+    {
+        "id":5,
+        "name":"HUAWEI MatePad",
+        "price":169.99,
+        "desc":"Écran FullView 2K\nPerformance de haute volée\nSon Surround Immersif"
+    },
+    {
+        "id":6,
+        "name":"HUAWEI MatePad T 10s",
+        "price":99.99,
+        "desc":"Ecran Full HD\nConception avant-gardiste\nQualité sonore Harman Kardon"
+    },
+    {
+        "id":7,
+        "name":"HUAWEI MatePad T 10",
+        "price":149.99,
+        "desc":"Ecran de 9.7\" HD\nDouble haut-parleur\nConception d'avant-garde"
+    },
+    {
+        "id":8,
+        "name":"HUAWEI MatePad T 8",
+        "price":129.99,
+        "desc":"Processeur puissant\nExpérience visuelle élargie\n12 heures de lecture vidéo"
+    }
+]
