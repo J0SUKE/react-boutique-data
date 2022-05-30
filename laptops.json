@@ -7,7 +7,8 @@
         "desc":"Avec un processeur à la pointe de l'industrie et un écran FullView 3K, HUAWEI MateBook X Pro emmène votre expérience au-delà de l'extraordinaire.",
         "price":1199.99,
         "gamme":"MateBook X",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/weu/fr/v4/mkt/pdp/laptops/specs-list.png"
     },
     {
         "id":2,
@@ -17,7 +18,8 @@
         "desc":"Doté du tout nouveau processeur personnalisé AMD Ryzen™ 7 5800H en 7 nm et d’un écran FullView 2,5K de 16 pouces, le HUAWEI MateBook 16 repousse les limites de la performance.",
         "price":999.99,
         "gamme":"MateBook",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-16-new/matebook-16.jpg"
     },
     {
         "id":3,
@@ -27,7 +29,8 @@
         "desc":"Performances et productivité réalisées à nouveau grâce à la certification Intel Evo et aux fonctionnalités innovantes du bureau intelligent.",
         "price":949.99,
         "gamme":"MateBook",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-14s-2021/spec/list.png"
     },
     {
         "id":4,
@@ -36,17 +39,8 @@
         "subtitle":"Clair et Net",
         "desc":"Faites les choses que vous aimez sur un ordinateur portable puissant. Modifiez facilement des vidéos, imaginez des designs inspirants et visualisez le tout sur un magnifique écran FullView 2K.",
         "price":749.99,
-        "category":"laptops"
-    },
-    {
-        "id":5,
-        "name":"MateBook 14 2021",
-        "size":14,
-        "subtitle":"Clair et Net",
-        "desc":"Faites les choses que vous aimez sur un ordinateur portable puissant. Modifiez facilement des vidéos, imaginez des designs inspirants et visualisez le tout sur un magnifique écran FullView 2K.",
-        "price":749.99,
-        "gamme":"MateBook",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-14-2021/specs/size.jpg"
     },
     {
         "id":6,
@@ -56,7 +50,8 @@
         "desc":"Léger et flexible, l’ordinateur portable et tablette tout en 2-en-1 HUAWEI MateBook E est doté d’un écran OLED à affichage aux couleurs réelles, d’un clavier assorti et du HUAWEI M-Pencil, répondant ainsi à vos besoins de productivité.",
         "price":629.99,
         "gamme":"MateBook E",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/pc/matebook-e-2022/specs/specs.png"
     },
     {
         "id":7,
@@ -66,7 +61,8 @@
         "desc":"L'ordinateur portable polyvalent en plus grand et meilleur, pour encore plus de ce que vous aimez. Avec l’écran Huawei FullView de 16,1 pouces, vous allez voir les choses en grand !",
         "price":749.99,
         "gamme":"MateBook D",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-16-amd-2021/imgs/kv/huawei-matebook-d-16-amd-2021-wallpaper@2x.webp"
     },
     {
         "id":8,
@@ -76,7 +72,8 @@
         "desc":"Un écran plus grand, des performances puissantes et un son exceptionnel, le MateBook D 15 vous offre plus de possibilités au travail et dans vos loisirs.",
         "price":649.99,
         "gamme":"MateBook D",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://shop-cdncname.huawei.com/fr/uomcdn/FRHW/pms/202203/gbom/6941487219766/800_800_7E7850E13FC3E6DDE105642844499B25mp.png"
     },
     {
         "id":9,
@@ -86,7 +83,8 @@
         "desc":"Un écran plus grand, des performances puissantes et un son exceptionnel, le MateBook D 15 vous offre plus de possibilités au travail et dans vos loisirs.",
         "price":629.99,
         "gamme":"MateBook D",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-15-2021/specs/col-img.jpg"
     },
     {
         "id":10,
@@ -96,6 +94,7 @@
         "desc":"Le plus performant de sa catégorie, le MateBook D 14 est l'ordinateur portable polyvalent, là pour répondre à vos besoins et plus encore.",
         "price":699.99,
         "gamme":"MateBook D",
-        "category":"laptops"
+        "category":"laptops",
+        "image":"https://shop-cdncname.huawei.com/fr/uomcdn/FRHW/pms/202203/gbom/6941487246892/800_800_4CD905CF9CAF7513CCA055B1DDC85BB9mp.jpg"
     }
 ]
