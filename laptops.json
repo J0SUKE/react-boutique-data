@@ -43,6 +43,17 @@
         "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-14-2021/specs/size.jpg"
     },
     {
+        "id":5,
+        "name":"MateBook E",
+        "size":12.6,
+        "subtitle":"Toujours une solution adaptée à vos besoins",
+        "desc":"Léger et flexible, l’ordinateur portable et tablette tout en 2-en-1 HUAWEI MateBook E est doté d’un écran OLED à affichage aux couleurs réelles, d’un clavier assorti et du HUAWEI M-Pencil, répondant ainsi à vos besoins de productivité.",
+        "price":629.99,
+        "gamme":"MateBook E",
+        "category":"laptops",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/pc/matebook-e-2022/specs/specs.png"
+    },
+    {
         "id":6,
         "name":"MateBook E",
         "size":12.6,
