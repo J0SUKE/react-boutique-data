@@ -55,17 +55,6 @@
     },
     {
         "id":6,
-        "name":"MateBook E",
-        "size":12.6,
-        "subtitle":"Toujours une solution adaptée à vos besoins",
-        "desc":"Léger et flexible, l’ordinateur portable et tablette tout en 2-en-1 HUAWEI MateBook E est doté d’un écran OLED à affichage aux couleurs réelles, d’un clavier assorti et du HUAWEI M-Pencil, répondant ainsi à vos besoins de productivité.",
-        "price":629.99,
-        "gamme":"MateBook E",
-        "category":"laptops",
-        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/pc/matebook-e-2022/specs/specs.png"
-    },
-    {
-        "id":7,
         "name":"MateBook D 16",
         "size":12.6,
         "subtitle":"Nouvel écran, nouvelles règles",
@@ -74,9 +63,9 @@
         "gamme":"MateBook D",
         "category":"laptops",
         "image":"https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-16-amd-2021/imgs/kv/huawei-matebook-d-16-amd-2021-wallpaper@2x.webp"
-    },
+    },    
     {
-        "id":8,
+        "id":7,
         "name":"MateBook D 15 AMD",
         "size":15.6,
         "subtitle":"Repoussez les limites du possible",
@@ -87,7 +76,7 @@
         "image":"https://shop-cdncname.huawei.com/fr/uomcdn/FRHW/pms/202203/gbom/6941487219766/800_800_7E7850E13FC3E6DDE105642844499B25mp.png"
     },
     {
-        "id":9,
+        "id":8,
         "name":"MateBook D 15 Intel",
         "size":15.6,
         "subtitle":"Repoussez les limites du possible",
@@ -98,7 +87,7 @@
         "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-15-2021/specs/col-img.jpg"
     },
     {
-        "id":10,
+        "id":9,
         "name":"MateBook D 14 2021",
         "size":14,
         "subtitle":"Impressionnant à tous points de vue",
