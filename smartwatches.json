@@ -1,49 +1,49 @@
 [
     {
         "id":1,
-        "name":"HUAWEI WATCH GT 3",
+        "name":"WATCH GT 3",
         "desc":"Une autonomie de batterie longue durée, Appels par Bluetooth, Coach personnel de course à pied, piloté par IA",
         "price":199.99,
         "category":"smartwatches"
     },
     {
         "id":2,
-        "name":"HUAWEI WATCH GT 3 Pro Titanium",
+        "name":"WATCH GT 3 Pro Titanium",
         "desc":"Titane I Verre Saphir\nSuivi de la santé en continu\nJusqu'à 14 jours d'autonomie",
         "price":369.99,
         "category":"smartwatches"
     },
     {
         "id":3,
-        "name":"HUAWEI WATCH GT 3 Pro Ceramic",
+        "name":"WATCH GT 3 Pro Ceramic",
         "desc":"Céramique I Verre Saphir\nSuivi de la santé en continu\nJusqu'à 7 jours d'autonomie",
         "price":499.99,
         "category":"smartwatches"
     },
     {
         "id":4,
-        "name":"HUAWEI WATCH FIT 2",
+        "name":"WATCH FIT 2",
         "desc":"Écran HUAWEI FullView de 1,74 pouce\nAppels Bluetooth\nSuivi d’un mode de vie sain",
         "price":149.99,
         "category":"smartwatches"
     },
     {
         "id":5,
-        "name":"HUAWEI WATCH 3 Pro",
+        "name":"WATCH 3 Pro",
         "desc":"Appels eSIM\nSuivi de la santé en continu\nJusqu'à 21 jours d'autonomie",
         "price": 399.99,
         "category":"smartwatches"
     },
     {
         "id":6,
-        "name":"HUAWEI WATCH 3",
+        "name":"WATCH 3",
         "desc":"Suivi de la santé en continu\nJusqu'à 14 jours d'autonomie\nAppels eSim",
         "price": 269.99,
         "category":"smartwatches"
     },
     {
         "id":7,
-        "name":"HUAWEI WATCH GT 3 Pro Ceramic",
+        "name":"WATCH GT 3 Pro Ceramic",
         "desc":"Céramique I Verre Saphir\nSuivi de la santé en continu\nJusqu'à 7 jours d'autonomie",
         "price": 499.99,
         "category":"smartwatches"
