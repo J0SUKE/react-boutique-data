@@ -4,55 +4,63 @@
         "name":"MatePad Pro 12.6",
         "price":599.99,
         "desc":"Le HUAWEI MatePad Pro est doté d’un écran OLED FullView de 12,6 pouces et offre des performances puissantes et des fonctionnalités intelligentes.",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-11/imgs/HUAWEI-MatePad-11-desktop@2x.webp"
     },
     {
         "id":2,
         "name":"MatePad 11",
         "price":299.99,
         "desc":"Écran HUAWEI FullView 120 Hz HUAWEI M-Pencil",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-pro-12-6/specs/specs-imgx2@.png"
     },
     {
         "id":3,
         "name":"MatePad Pro 12.6",
         "price":299.99,
         "desc":"Écran OLED FullView\nChipset Kirin 9000E\nHUAWEI M-Pencil",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad/specs.jpg"
     },
     {
         "id":4,
         "name":"MatePad New",
         "price":199.99,
         "desc":"Écran FullView 2K\nSon surround immersif\nHUAWEI Share",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad/img/huawei-matepad-kv_mobi.jpg"
     },
     {
         "id":5,
         "name":"MatePad",
         "price":169.99,
         "desc":"Écran FullView 2K\nPerformance de haute volée\nSon Surround Immersif",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-t-10s/imgs/huawei-matepad-t-10s-id-design.jpg"
     },
     {
         "id":6,
         "name":"MatePad T 10s",
         "price":99.99,
         "desc":"Ecran Full HD\nConception avant-gardiste\nQualité sonore Harman Kardon",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-t-10s/imgs/huawei-matepad-t-10s-id-design.jpg"
     },
     {
         "id":7,
         "name":"MatePad T 10",
         "price":149.99,
         "desc":"Ecran de 9.7\" HD\nDouble haut-parleur\nConception d'avant-garde",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-t-10s/imgs/huawei-matepad-t-10s-id-design.jpg"
     },
     {
         "id":8,
         "name":"MatePad T 8",
         "price":129.99,
         "desc":"Processeur puissant\nExpérience visuelle élargie\n12 heures de lecture vidéo",
-        "category":"tablettes"
+        "category":"tablettes",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-t-8/imgs/1HUAWEI-MatePad-T-8@2x.jpg"
     }
 ]

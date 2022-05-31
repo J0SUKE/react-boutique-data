@@ -4,48 +4,55 @@
         "name":"nova 9 SE",
         "desc" : "Photographie haute résolution 108 MP \n Expérience de vlogging créative\nHUAWEI SuperCharge 66 W",
         "price":349.00,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/phones/nova9-se/specs/specs.jpg"
     },
     {
         "id":1,
         "name":"P50 Pocket",
         "desc" : "Design premium pliable\nCaméra à ultra-spectre\nÉcran Smart Cover, écran principal de 6,9 pouces",
         "price":1299.00,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p50-pocket/specs/white.png"
     },
     {
         "id":2,
         "name":"P50 Pro",
         "desc" : "Caméra à double matrice True-Form\nÉcran True-Chroma 6,6\", 120 Hz\nDouble charge HUAWEI SuperCharge, IP68",
         "price":1199.00,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/p50-pro/size/p50-pro-black.png"
     },
     {
         "id":3,
         "name":"nova 9",
         "desc" : "Caméra Ultra Vision de 50 MP\nÉcran incurvé en couleurs d’origine de 120 Hz\nHUAWEI SuperCharge 66 W",
         "price":379.99,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/weu/fr/mkt/pdp/phones/nova9/specs/specs-img.png"
     },
     {
         "id":4,
         "name":"nova 8i",
         "desc" : "HUAWEI SuperCharge 66 W\nQuadruple caméra pilotée par IA de 64 MP\nÉcran sans bord HUAWEI de 6,67 pouces",
         "price":379.99,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/phones/nova-8i/specs_img/moonlight_silver.png"
     },
     {
         "id":5,
         "name":"Mate 40 Pro",
         "desc" : "Processeur Kirin 9000 5G gravé en 5nm\nCapteurs avant et arrière Ultra Vision\nTechnologie SuperCharge 66 W filaire et 50 W sans fil",
         "price":1199.99,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer-img.huawei.com/content/dam/huawei-cbg-site/weu/fr/v4/mkt/pdp/phones/black-img.png"
     },
     {
         "id":6,
         "name":"P40 Pro+",
         "desc" : "Quintuple capteur Ultra Vision conçu avec Leica\nZoom optique 10x, zoom max 100x\nEcran incurvé Overflow, IP68",
         "price":1399.99,
-        "category":"smartphones"
+        "category":"smartphones",
+        "image":"https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/list-image/phones/p40-pro/p40-pro-gold.png"
     }
 ]
